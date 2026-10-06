@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.osthedev.twa",
+      "sha256_cert_fingerprints": [
+        "73:55:DB:16:16:D8:3E:A3:D4:3E:AA:4F:7C:A1:2C:F6:7F:85:80:EC:F2:EC:68:FF:24:61:76:3B:E4:AC:9B:DB"
+      ]
+    }
+  }
+]
